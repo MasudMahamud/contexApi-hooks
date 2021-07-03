@@ -1,0 +1,11 @@
+.product-details{
+    float: left;
+    width: 340px;
+    margin: 25px;
+    border: 1px solid #999;
+    padding:25px;
+    text-align: center;
+    background-color: rgb(128, 47, 47);
+    color:rgb(146, 230, 36);
+    font-family:cursive;
+}
